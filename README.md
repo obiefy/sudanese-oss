@@ -13,3 +13,4 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 - [Tailwind Copy](https://github.com/the94air/twcopy) - Easily copy Tailwindcss colors and shadows.
 - [Tailwind Builder](https://github.com/Miaababikir/Tailwind-Builder) - Helps you to scaffold your forms structure without the need to repeat yourself.
 - [JoeVue](https://github.com/Miaababikir/JoeVue) - CLI tool help you create your vue file easily.
+- [Odoo-Intellij Plugin](https://github.com/firebitsnet/odoo-intellij) - Its a JetBrains's IDE Plugin that adds Support for developing Odoo applications and modules with IntelliJ IDEA and PyCharm IDEs.
