@@ -10,6 +10,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
   - [Packages](#packages)
     - [JavaScript](#javascript)
     - [PHP](#php)
+    - [Ruby](#ruby)
   - [Plugins](#plugins)
   - [UI Libraries & Components](#ui-libraries--components)
   - [IDE Extensions](#ide-extensions)
@@ -26,11 +27,18 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 ### PHP
 
 - [API Response](https://github.com/obiefy/api-response) - Simple and ready to use API response wrapper for Laravel.
+- [Boxbilling-Namecheap](https://github.com/Eptikar-IT-Solutions/boxbilling-namecheap) - Boxbilling namecheap registrar adapter.
+
+### Ruby
+
+- [Foundationize](https://github.com/Eptikar-IT-Solutions/foundationize) - Foundationize is a ruby gem to ease the use of ZURB Foundation with rails apps.
 
 
 ## Plugins
 
-- [JoeVue](https://github.com/Miaababikir/JoeVue) - CLI tool help you create your vue file easily.
+- [Openngo](https://github.com/Eptikar-IT-Solutions/openngo) - OpenNGO is a platform to help NGOs better help the world!.
+- [Slack Time Tracker](https://github.com/Eptikar-IT-Solutions/slack-time-tracker) - A DIY Meteor.js attendance tracker built using Slack api.
+- [Arabs At Stackoverflow](https://github.com/Eptikar-IT-Solutions/arabs-at-stackoverflow) - Source code of tools used to study Arab's contribution at Stackoverflow. Find more details at our blog.
 
 ## UI Libraries & Components
 
@@ -47,6 +55,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 
 - [Git Todos](https://github.com/z0al/git-todos) - A Git based Todos App for Developers
 - [Ignr](https://github.com/z0al/ignr) - Automagically generate a .gitignore file that fits your needs.
+- [JoeVue](https://github.com/Miaababikir/JoeVue) - CLI tool help you create your vue file easily.
 
 ## GitHub Bots
 
