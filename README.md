@@ -5,14 +5,28 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 
 > For Contribute read [Contributing Guide](contributing.md) please
 
+## Table of Contents
+
+  - [Packages](#packages)
+    - [JavaScript](#javascript)
+    - [PHP](#php)
+  - [Plugins](#plugins)
+  - [UI Libraries & Components](#ui-libraries--components)
+  - [IDE Extensions](#ide-extensions)
+  - [Command Line Interfaces (CLIs)](#command-line-interfaces-clis)
+  - [GitHub Bots](#github-bots)
+
 ## Packages
 
-- [API Response](https://github.com/obiefy/api-response) - Simple and ready to use API response wrapper for Laravel.
-
-## JavaScript
+### JavaScript
 
 - [Oktane](https://github.com/z0al/oktane) - A light-weight and customizable library for data fetching in React.
 - [Unread](https://github.com/z0al/unread) - A package for parsing RSS 2.0, Atom 1.0. Works on both Node.js and the browser.
+
+### PHP
+
+- [API Response](https://github.com/obiefy/api-response) - Simple and ready to use API response wrapper for Laravel.
+
 
 ## Plugins
 
@@ -32,7 +46,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 ## Command Line Interfaces (CLIs)
 
 - [Git Todos](https://github.com/z0al/git-todos) - A Git based Todos App for Developers
-- [ignr](https://github.com/z0al/ignr) - Automagically generate a .gitignore file that fits your needs.
+- [Ignr](https://github.com/z0al/ignr) - Automagically generate a .gitignore file that fits your needs.
 
 ## GitHub Bots
 
