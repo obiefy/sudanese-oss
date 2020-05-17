@@ -4,9 +4,12 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 
 > For Contribute read [Contributing Guide](contributing.md) please
 
-## Plugins
+## Packages
 
 - [API Response](https://github.com/obiefy/api-response) - Simple and ready to use API response wrapper for Laravel.
+
+## Plugins
+
 - [JoeVue](https://github.com/Miaababikir/JoeVue) - CLI tool help you create your vue file easily.
 
 ## UI Libraries & Components
@@ -19,4 +22,3 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 ## IDE Extensions
 
 - [Odoo-Intellij Extension](https://github.com/firebitsnet/odoo-intellij) - Its a JetBrains's IDE Plugin that adds Support for developing Odoo applications and modules with IntelliJ IDEA and PyCharm IDEs.
-- [Laravel-snip Extension](https://marketplace.visualstudio.com/items?itemName=khatabwedaa.laravel-snip) - Simple vscode Extension for Laravel routes.
