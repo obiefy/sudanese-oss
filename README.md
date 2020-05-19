@@ -46,7 +46,8 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 - [Meraki UI](https://github.com/merakiui/website) - Beautiful Tailwindcss components that support RTL out of the box & fully responsive.
 - [Tailwind Copy](https://github.com/the94air/twcopy) - Easily copy Tailwindcss colors and shadows.
 - [Tailwind Builder](https://github.com/Miaababikir/Tailwind-Builder) - Helps you to scaffold your forms structure without the need to repeat yourself.
-
+- [Argon Admin panel RTL](https://owiesnama.github.io/Argon-Admin-panel-RTL/) - RTL version of Argon admin panel  by creative tim (https://www.creative-tim.com)
+- [Mobile promoting landing page](https://github.com/owiesnama/LandingPage) - Landing page for mobile apps promoting 
 ## IDE Extensions
 
 - [Odoo-Intellij Extension](https://github.com/firebitsnet/odoo-intellij) - Its a JetBrains's IDE Plugin that adds Support for developing Odoo applications and modules with IntelliJ IDEA and PyCharm IDEs.
