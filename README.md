@@ -23,6 +23,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 
 - [Oktane](https://github.com/z0al/oktane) - A light-weight and customizable library for data fetching in React.
 - [Unread](https://github.com/z0al/unread) - A package for parsing RSS 2.0, Atom 1.0. Works on both Node.js and the browser.
+- [TafgeetJS](https://github.com/mmahgoub/tafgeetjs) - An NPM module to convert currency digits into written Arabic words.
 
 ### PHP
 
