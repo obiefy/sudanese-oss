@@ -16,6 +16,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
   - [IDE Extensions](#ide-extensions)
   - [Command Line Interfaces (CLIs)](#command-line-interfaces-clis)
   - [GitHub Bots](#github-bots)
+  - [Mobile Applications](#mobile-applications)
 
 ## Packages
 
@@ -63,3 +64,10 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 
 - [Dep](https://probot.github.io/apps/dep/) - A dependency manager for your Pull Requests.
 - [Review Me](https://github.com/z0al/probot-review-me) - A GitHub App built with probot that helps you to decide when a pull request is ready for review based on its statuses.
+
+# Mobile Applications
+
+ * Android
+   * Java
+     * [Ausbildung](https://github.com/hbalhassan/Ausbildung-Android-App) - Android application in Java.
+
