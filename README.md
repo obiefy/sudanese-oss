@@ -30,6 +30,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 - [API Response](https://github.com/obiefy/api-response) - Simple and ready to use API response wrapper for Laravel.
 - [Boxbilling-Namecheap](https://github.com/Eptikar-IT-Solutions/boxbilling-namecheap) - Boxbilling namecheap registrar adapter.
 - [Blade CSS Icons](https://github.com/khatabwedaa/blade-css-icons) - A package to easily make use of Css.gg 700+ Icons in your Laravel Blade views.
+- [Laravel TailwindCss Dashboard Preset](https://github.com/Miaababikir/Laravel-Tailwind-CSS-Dashboard-Preset) - Dashboard preset using tailwindcss that support RTL out of the box
 
 ### Ruby
 
