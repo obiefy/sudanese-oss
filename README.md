@@ -56,7 +56,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 ## IDE Extensions
 
 - [Odoo-Intellij Extension](https://github.com/firebitsnet/odoo-intellij) - Its a JetBrains's IDE Plugin that adds Support for developing Odoo applications and modules with IntelliJ IDEA and PyCharm IDEs.
-- [Laravel Relationship Snippets](https://github.com/m7md3omer/Vscode-extension-laravel-snippets) - VScode extension for common laravel relationship functions.
+- [Laravel Relationship Snippets](https://github.com/mhmdomer/laravel-snippets) - VScode extension for common laravel relationship functions.
 
 ## Command Line Interfaces (CLIs)
 
