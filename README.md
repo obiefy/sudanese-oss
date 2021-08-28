@@ -31,6 +31,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 - [Boxbilling-Namecheap](https://github.com/Eptikar-IT-Solutions/boxbilling-namecheap) - Boxbilling namecheap registrar adapter.
 - [Blade CSS Icons](https://github.com/khatabwedaa/blade-css-icons) - A package to easily make use of Css.gg 700+ Icons in your Laravel Blade views.
 - [Laravel TailwindCss Dashboard Preset](https://github.com/Miaababikir/Laravel-Tailwind-CSS-Dashboard-Preset) - Dashboard preset using tailwindcss that support RTL out of the box
+- [Laravel Database Backup](https://github.com/mhmdomer/laravel-database-backup) - A Laravel package to backup your entire laravel database with a simple artisan command
 
 ### Ruby
 
@@ -55,7 +56,7 @@ Please feel free to submit a PR with your OSS (Package, App ...etc.), or OSS fro
 ## IDE Extensions
 
 - [Odoo-Intellij Extension](https://github.com/firebitsnet/odoo-intellij) - Its a JetBrains's IDE Plugin that adds Support for developing Odoo applications and modules with IntelliJ IDEA and PyCharm IDEs.
-- [Laravel Relationship Snippets](https://github.com/m7md3omer/Vscode-extension-laravel-snippets) - VScode extension for common laravel relationship functions.
+- [Laravel Relationship Snippets](https://github.com/mhmdomer/laravel-snippets) - VScode extension for common laravel relationship functions.
 
 ## Command Line Interfaces (CLIs)
 
